@@ -10,3 +10,5 @@ title: "Lesson 2 — Pre-lesson self-study (Counting)"
 1.1, 1.2, 1.3, 1.4, 1.6, 1.10, 1.11, 1.12, 1.13, 1.14 **[BH]**
 
 **Idea:** core counting patterns (order vs no order, replacement vs no replacement, overcounting).
+
+- [Lesson 2 notes]({{ "/lessons/lesson-02-notes.pdf" | relative_url }})
