@@ -11,4 +11,4 @@ title: "Lesson 2 — Pre-lesson self-study (Counting)"
 
 **Idea:** core counting patterns (order vs no order, replacement vs no replacement, overcounting).
 
-- [Lesson 2 notes]({{ "/lessons/lesson-02-notes.pdf" | relative_url }})
+- [Notes]({{ "/lessons/lesson-02-notes.pdf" | relative_url }})

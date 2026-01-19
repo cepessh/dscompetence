@@ -15,3 +15,5 @@ title: "Lesson 3 — Pre-lesson self-study (Naive probability + conditional prob
 2.1, 2.2, 2.4, 2.6, 2.8, 2.12, 2.13, 2.20, 2.21 **[BH]**
 
 **Idea:** (i) naive probability = correct modeling + counting (no “fake equally likely”), (ii) conditional probability + Bayes, (iii) independence
+
+- [Notes]({{ "/lessons/lesson-03-notes.pdf" | relative_url }})
