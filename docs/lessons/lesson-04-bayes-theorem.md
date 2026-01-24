@@ -17,3 +17,5 @@ If struggle with the problems re-read 2.3, 2.5 and make sure the examples from t
 2.3, 2.5, 2.7, 2.14, 2.22, 2.30, 2.31, 2.32, 2.35 **[BH]**
 
 **Idea:** (i) LOTP + Bayes' rule, (ii) independence
+
+- [Notes]({{ "/lessons/lesson-04-notes.pdf" | relative_url }}) (find a mistake in the solution of 2.30)
