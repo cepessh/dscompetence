@@ -10,6 +10,8 @@ title: "DS Competence"
 - [Lesson 2 — Counting]({{ "/lessons/lesson-02-counting" | relative_url }})
 - [Lesson 3 — Naive probability + conditional probability basics]({{ "/lessons/lesson-03-conditional-probability" | relative_url }})
 - [Lesson 4 — LOTP, Bayes' Rule]({{ "/lessons/lesson-04-bayes-theorem" | relative_url }})
+- [Lesson 5 — Random variables-1]({{ "/lessons/lesson-05-random-variables-intro" | relative_url }})
+
 
 ## Materials
 - [Books]({{ "/books" | relative_url }})
