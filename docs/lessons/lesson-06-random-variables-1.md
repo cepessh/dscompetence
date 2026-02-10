@@ -15,3 +15,5 @@ Focus on solving problems this time.
 2) Problems after Chapter 3 in the previous lesson
 
 **Idea:** Random variables, PMF, CDF, Binomial, Bernoulli
+
+- [Notes]({{ "/lessons/lesson-06-notes.pdf" | relative_url }})
