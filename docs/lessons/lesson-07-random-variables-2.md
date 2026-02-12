@@ -14,3 +14,5 @@ Finish the previous HW.
 
 
 **Idea:** Random variables, PMF, CDF, Binomial, Bernoulli
+
+- [Notes]({{ "/lessons/lesson-07-notes.pdf" | relative_url }})
